@@ -57,6 +57,7 @@
 
 ## Additional notes
 ### .gitignore
+
   
 Nachdem man eine .gitignore-Datei hinzufügt und `git status` ausführt bemerkt man folgendes:
 - Die .gitignore-Datei, die ich erstellt und dem Repository hinzugefügt habe, wird nicht mehr als "Untracked file" ausgeführt, da ich sie zum Staging-Bereich hinzugefügt und einen Commit erstellt habe.
