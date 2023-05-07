@@ -25,6 +25,6 @@ This project was created by Laurenz Altendorfer. You are welcome to fork and imp
 - [Exercise 1](exercise1.md)
 - [Exercise 2](exercise2.md)
 
-## Links
+## Additional Links
 - [GitHub](https://github.com/laurenzalt)
 - [FH Joanneum](https://www.fh-joanneum.at/)
