@@ -21,6 +21,10 @@ Congratulations - you answered all questions correctly!
 ## Further information
 This project was created by Laurenz Altendorfer. You are welcome to fork and improve or expand the project. If you have any questions or comments, feel free to contact me.
 
-### Exercise 
+## Exercise 
 - [Exercise 1](exercise1.md)
 - [Exercise 2](exercise2.md)
+
+## Links
+- [GitHub](https://github.com/laurenzalt)
+- [FH Joanneum](https://www.fh-joanneum.at/)
