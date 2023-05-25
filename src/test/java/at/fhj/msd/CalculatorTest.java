@@ -42,6 +42,21 @@ public class CalculatorTest {
         assertEquals(-25, calculator.multiply(-5, 5));
     }
 
+    @Test
+    void testFactorialOfPositiveNumber() {
+        assertEquals(120, calculator.factorial(5));
+    }
+
+    @Test
+    void testFactorialOfZero() {
+        assertEquals(1, calculator.factorial(0));
+    }
+
+    @Test
+    void testFactorialOfNegativeNumber() {
+        assertEquals(0, calculator.factorial(-5));
+    }
+
 
 
 }

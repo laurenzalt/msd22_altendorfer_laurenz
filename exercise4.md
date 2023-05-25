@@ -25,3 +25,7 @@ In dieser Übung testen wir die Calculator Klasse mit folgenden Test-cases:
 
 ### Testcoverage
 ![Image](resources/images/ex4_1.png)
+
+### Fehlgeschlagene Tests
+![Image](resources/images/ex4_2.png)
+Hier sieht man wie die Tests fehlschlagen, da die `factorial(int n)` Funktion noch nicht implementiert ist, sondern immer 0 zurückgibt. Ein Testcase wird als korrekt markiert, da dieser mit einer negativer Zahl arbeitet, was 0 zurückgeben sollte.
