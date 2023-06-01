@@ -3,3 +3,7 @@
 *.pdf
 
 .idea
+
+/target/
+
+*.log
