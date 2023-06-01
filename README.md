@@ -26,6 +26,7 @@ This project was created by Laurenz Altendorfer. You are welcome to fork and imp
 - [Exercise 2](exercise2.md)
 - [Exercise 3](exercise3.md)
 - [Exercise 4](exercise4.md)
+- [Exercise 5](exercise5.md)
 
 ## Additional Links
 - [GitHub](https://github.com/laurenzalt)
