@@ -32,7 +32,9 @@ public class CalculatorTest {
     void testDivide() {
         assertEquals(2, calculator.divide(10, 5));
         assertEquals(1, calculator.divide(5, 5));
-        assertEquals(-1, calculator.divide(-5, 5));
+        assertThrows(ArithmeticException.class, () -> {
+            calculator.divide(5, 0);
+        });
     }
 
     @Test
